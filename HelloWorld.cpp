@@ -4,11 +4,12 @@ using namespace std;
 
 int main()
 {     
-    cout<<"My name is Umi E Ruman\n";
-    cout<<"I am from Lahore";
-    cout<<"Coding is so easy";
+   // cout is an object and it's job is to print 
     cout<<"Hello World";
+   //  Example we just change inner text and output changed
+     cout<<"Umi E Ruman";
     return 0;
+
 } 
 
 
