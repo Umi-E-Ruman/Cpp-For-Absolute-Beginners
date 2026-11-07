@@ -14,7 +14,8 @@
 
 ## 💻 Code Files
 
-- `problem-solving-examples.cpp` — 4-step method practice *(coming soon)*
+- 📁 **[Lecture-06-ProblemSolving-Git](./Lecture-06-ProblemSolving-Git/)** 
+  - [1-4StepsProblemSolving.cpp](./Lecture-06-ProblemSolving-Git/1-4StepsProblemSolving.cpp) — Practical example of the 4-step method (Addition of two numbers).
 
 ---
 
